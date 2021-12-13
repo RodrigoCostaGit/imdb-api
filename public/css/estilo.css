@@ -1,0 +1,9 @@
+#btnLogoff {
+    display: none;
+}
+footer {
+    clear: both;
+    position: static;
+    height: 100px;
+    margin-top: 120px;
+}
